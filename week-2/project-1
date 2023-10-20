@@ -1,0 +1,20 @@
+fn main(){
+	let p:f64 = 520000000.00
+	let r:f64 = 10.0
+	let t:f64 = 5.0
+
+	//Amount
+	let A= p*{1+(r/100)}*n
+	println!("Amount is", a)
+
+	//Compound Interest
+	let CI = A-p
+	println! ("Compound interest is", CI)
+
+
+
+
+
+
+
+}
